@@ -390,7 +390,7 @@ def mu_po3(num,str5,str3,str1,str4):
 	n2.append(nt[2])
 	return(p1,n2,po,nt)
 
-filename=os.listdir("/home/lijuanh/projects/def-jonatp/lijuanh/riboswitch_mu_design/seq_struc_riboswitch1_add")
+filename=os.listdir("./seq_struc_riboswitch1_add")
 #fn=open('no_20_100_seq_motif.txt','r')
 fm=open('no_struc_ribo.txt','r')
 ls_name=[]
