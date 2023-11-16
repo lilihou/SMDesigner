@@ -1,8 +1,8 @@
 import os
 import re
 from pathlib import Path
-data_fold1='/home/lijuanh/projects/def-jonatp/lijuanh/riboswitch_mu_design/riboswitch_sto1/'
-data_fold2='/home/lijuanh/projects/def-jonatp/lijuanh/riboswitch_mu_design/seq_struc_riboswitch/'
+data_fold1='./riboswitch_sto1/'
+data_fold2='./seq_struc_riboswitch/'
 filename=os.listdir(data_fold1)
 foo=open('no_struc_ribo.txt','w')
 
