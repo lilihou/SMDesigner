@@ -1,5 +1,5 @@
 # SMDesigner 0.1
-SMDesinger is used to design mutation for structure ncRNAs according to structure information. These mutations have affected the function of ncRNAs.
+SMDesinger is a tool used to design mutation for structure ncRNAs according to structure information. These mutations have potentially affected the function of ncRNAs.
 
 ## input file: .sto file
 eg:   # STOCKHOLM 1.0
